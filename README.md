@@ -1,2 +1,2 @@
-# varyag-rpg-game
+# Varyag
 Text RPG game
