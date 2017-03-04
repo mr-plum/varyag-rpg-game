@@ -1,0 +1,20 @@
+[
+	{
+		"id": 0,
+		"level": 2,
+		"name": "Разбойник",
+		"strength": 5,
+		"dexterity": 5,
+		"health": 70,
+		"max_health": 70
+	},
+	{
+		"id": 1,
+		"name": "Дружинник",
+		"level": 3,
+		"strength": 5,
+		"dexterity": 5,
+		"health": 100,
+		"max_health": 100
+	}
+]

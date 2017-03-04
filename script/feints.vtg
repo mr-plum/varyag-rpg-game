@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"class": "axe",
+		"desc": "Удар топором",
+		"level": 1
+	},
+	{
+		"id": 2,
+		"class": "sword",
+		"desc": "Удар мечом",
+		"level": 1
+	},
+	{
+		"id": 3,
+		"class": "mace",
+		"desc": "Удар булавой",
+		"level": 1
+	},
+	{
+		"id": 4,
+		"class": "hands",
+		"desc": "Удар кулаком",
+		"level": 1
+	}
+]
